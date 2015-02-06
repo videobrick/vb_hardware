@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R-SIL_8NB
+D Resistor non bussed, DIP8
+K R DEV Resistor Network
+$ENDCMP
+#
+#End Doc Library

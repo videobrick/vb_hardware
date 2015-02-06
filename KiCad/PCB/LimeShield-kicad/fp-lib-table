@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name videobrick_alpha4_eagle_footprints)(type Eagle)(uri /home/karl/Videobrick/github/vb_hardware/PCB/LimeShield-kicad/videobrick_alpha4_eagle_footprints.lbr)(options "")(descr ""))
+  (lib (name w_smd_trans)(type Legacy)(uri /home/karl/K/KiCad/libs-kcs-walter/mod_smd_trans/w_smd_trans.mod)(options "")(descr ""))
+  (lib (name w_conn_av)(type Legacy)(uri /home/karl/K/KiCad/libs-kcs-walter/mod_conn_av/w_conn_av.mod)(options "")(descr ""))
+  (lib (name w_logo)(type Legacy)(uri /home/karl/K/KiCad/libs-kcs-walter/mod_logo/w_logo.mod)(options "")(descr ""))
+  (lib (name lime-shield-connector)(type KiCad)(uri /home/karl/Videobrick/github/vb_hardware/PCB/LimeShield-kicad/GPIO.pretty)(options "")(descr ""))
+)
